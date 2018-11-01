@@ -1,5 +1,5 @@
 # openjdk-gradle-springboot
-Dockerfile for an OpenJDK image, with cached Gradle Wrapper and Spring Boot jars.
+Dockerfile for an OpenJDK image, with cached Gradle Wrapper and Spring Boot jars. 
 ### Versions
 * Gradle Wrapper `gradle-4.10.2-bin`
 * Java 8
